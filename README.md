@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaushal
 
-<!--
-**kaushal-03/kaushal-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer focused on building scalable backend systems, frontend apps, and automation tools.
 
-Here are some ideas to get you started:
+🎓 I graduated in **Computer Science Engineering** from **Amrita Vishwa Vidyapeetham** in **2024**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working as a **Software Developer**, primarily focused on **frontend development using React**, while actively learning **Java & Spring Boot** to expand into full-stack and backend roles.
+
+🤝 Eager to contribute to impactful open-source projects, collaborate with like-minded developers, and grow as an engineer.
+
+---
+
+## 🔧 Tech Stack
+
+- 🚧 **Java & Spring Boot** — laying the foundation
+- 🌐 **React, Redux** 
+- ☁️ **AWS** — exploring cloud services
+- 📊 **SQL, MongoDB** — learning and applying in projects
+
+---
+
+## 📍 Current Focus
+
+- 🚗 Ride-sharing platform with geospatial queries and automated workflows
+- 📬 Email automation and parsing with AI
+- 🛠 Building reusable backend utilities (Celery, task queues, etc.)
+
+---
+
+## 📈 GitHub Stats
+
+![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushal-03&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-03&layout=compact&theme=radical)
+
