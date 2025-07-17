@@ -27,8 +27,8 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Let's Connect
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushal-03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-03&layout=compact&theme=radical)
+- 📫 Email: [ksiriguppa@gmail.com](ksiriguppa@gmail.com)
+
 
