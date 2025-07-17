@@ -23,7 +23,7 @@
 
 - 🚗 Ride-sharing platform with geospatial queries and automated workflows
 - 📬 Email automation and parsing with AI
-- 🛠 Building reusable backend utilities (Celery, task queues, etc.)
+- 🛠 Building reusable backend utilities (Celery, Notifcation(FCM), etc.)
 
 ---
 
